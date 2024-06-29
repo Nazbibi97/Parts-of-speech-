@@ -1,0 +1,32 @@
+/*.h{background-color: yellow;
+  width: 129px;
+  border-width: 4px 4px 4px 4px;
+  border-color: black;
+  border-style: dotted;
+}
+div{background-color: #42445A00; 
+  width: 200px;
+  border-width:6px 6px 6px 6px;
+  border-color: #C1B510;
+  border-style: double ;
+}
+  */
+  fieldset{ background-color: #C6C595;
+    border: 16px 16px 16px 16px;
+    border-color: yellow;
+    border-style: groove;
+    margin: 16px 16px 16px 16px;
+    padding: 16px 16px 16px 16px;
+  }
+  legend {
+    padding: 2px;
+    margin-left: calc(50% - 35px - 8px);
+    color: tomato;
+    font-size: 20px;
+    text-transform: capitalize;
+    background-color: #88D180;
+    border-radius: 6px;
+    border-top-left-radius: 19px;
+  }
+  
+

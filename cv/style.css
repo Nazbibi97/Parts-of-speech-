@@ -1,0 +1,40 @@
+
+*{margin: 0px;
+  padding: 0px;
+  
+}
+.container{width: 100vw;
+  height: 100vh;
+  background-color: black;  
+}
+.sidebar{height: 100%;
+  width: 25%; 
+  background-color: orange; display: inline-block;
+  text-shadow: 1px 1px 3px#42445A;
+  
+}
+.sidebar img{width: 50%;
+  height: 10%;
+  padding: 20px;
+border-radius: 50%;
+outline-width: 1em;
+outline-style: double;
+outline-color: blanchedalmond;
+
+}
+
+
+.content{height: 100%;
+  width: 75%;
+  background-color: peachpuff;
+  overflow: auto;
+  display: inline-block;
+  text-shadow: 1px 1px 3px#4B4E6E;
+  
+}
+/*ul{list-style-image: url("/cv/4aa971293bd1d98f8d8c195ed964584c-removebg-preview.png");
+  }
+  li{
+    margin: 10px 0px 0px 0px;
+  }*/
+  
